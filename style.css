@@ -1,6 +1,5 @@
 body {
 	font: 16px Helvetica, Sans-Serif;
-	background: url(noise.png);
 }
 
 #pic {
@@ -8,31 +7,31 @@ body {
 }
 
 #button {
-	margin-left: 45%;
-	margin-right: 45%;
+	margin-left: 38%;
+	margin-right: 38%;
 	background-color: gray;
 
-	border-radius: 20px;
+	border-radius: 18px;
 	height: 100px;
 }
 
 #container {
-	width: 800px;
-	margin: 40px auto 60px;
+	width: 780px;
+	margin: 38px auto 58px;
 }
 
 #content-contact {
-	margin: 0 0 16px 0;
-	padding: 0 0 16px 0;
-	font-size: 42px;
+	margin: 0 0 14px 0;
+	padding: 0 0 14px 0;
+	font-size: 40px;
 	font-weight: bold;
 	letter-spacing: -2px;
 	border-bottom: 1px solid #999;
 }
 
 #content-summarycontent {
-	margin: 0 0 16px 0;
-	padding: 0 0 32px 0;
+	margin: 0 0 14px 0;
+	padding: 0 0 30px 0;
 
 	font-style: italic;
 	font-size: 20px;
